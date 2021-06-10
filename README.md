@@ -1,13 +1,6 @@
 ## Hi There 👋 !
 
-I’m Jeremy, living in **Stockholm**, loving **Javascript**, looking for **a job**. :-)
-
-
-### Repositories
-
-Mainly full of projects for learning or for fun. All here to keep track of my progression.
-
-<!-- My code would hopefully reflect that : from a basic HTML page to projects a little bit more 'fashion'. -->
+Here you'll find many projects, for learning or for fun. All here to keep track of my progression.
 
 ### Stats
 
